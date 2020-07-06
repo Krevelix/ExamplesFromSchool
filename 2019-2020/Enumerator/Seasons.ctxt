@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Seasons
+comment1.params=str\ pSD
+comment1.target=Seasons(java.lang.String,\ int)
+comment1.text=\r\n
+comment2.params=
+comment2.target=java.lang.String\ getParametres()
+comment3.params=season
+comment3.target=java.lang.String\ activity(Seasons)
+numComments=4
